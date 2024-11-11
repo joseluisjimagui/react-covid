@@ -1,6 +1,12 @@
+import '../styles/HistoricalResults.css'
+import CardAndButton from '../components/CardAndButton'
+
 const HistoricalResults = () => {
     return ( 
-        <h1>Historical Results</h1>
+        <div>
+            <h1>Historical Results</h1>
+            <CardAndButton />
+        </div>
      );
 }
  

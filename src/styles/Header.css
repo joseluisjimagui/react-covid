@@ -1,0 +1,24 @@
+.myNav{
+    background: #424242;
+    padding: 1%;
+}
+
+.logo{
+    background: #604CC3;
+}
+
+.historical{
+    background: #EFF5F5;
+}
+
+.single-day{
+    background: #FFF6E9;
+}
+
+.single-state{
+    background: #497174;
+}
+
+.single-state-day{
+    background:  #EB6440;
+}
